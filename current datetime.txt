@@ -1,0 +1,4 @@
+Number of wins: 2
+  Number of losses: 1
+  Average credits netted per game:  21.0
+  Date/time: 2016-12-16T14:20:39.239
